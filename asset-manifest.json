@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bharath1m/personal-portfolio.git/static/css/main.31d6cfe0.css",
+    "main.js": "/bharath1m/personal-portfolio.git/static/js/main.d775254c.js",
+    "static/media/Bharath.jpeg": "/bharath1m/personal-portfolio.git/static/media/Bharath.b032dacbf15f33417c87.jpeg",
+    "index.html": "/bharath1m/personal-portfolio.git/index.html",
+    "main.d775254c.js.map": "/bharath1m/personal-portfolio.git/static/js/main.d775254c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d775254c.js"
+  ]
+}
